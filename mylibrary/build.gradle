@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.gitee.fc'   //fc是你gitee上自己的名
+group='com.gitee.fengchao159357'   //fc是你gitee上自己的名
 android {
     compileSdkVersion 34
 
