@@ -6,7 +6,6 @@ package com.linji.mylibrary.faceHelp.model;
 /**
  * 组实体类
  */
-@Deprecated
 public class Group {
     private String groupId = "";
     private String desc = "";

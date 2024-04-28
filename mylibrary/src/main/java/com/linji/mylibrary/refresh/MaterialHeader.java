@@ -296,7 +296,6 @@ public class MaterialHeader extends ViewGroup implements RefreshHeader {
     }
 
     @Override
-    @Deprecated
     public void setPrimaryColors(int... colors) {
         if (colors.length > 0) {
             mBezierPaint.setColor(colors[0]);
